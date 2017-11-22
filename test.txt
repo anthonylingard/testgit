@@ -1,17 +1,5 @@
 thing
 master
 
-<<<<<<< HEAD
-jldkjflkdsjlkfjsdlf#
-dsfjdksl;fjkldjf
 
-
-dffddf
-=======
-master
-
-
-
-
-dfdhfkjhdjkfhdf
->>>>>>> master
+ant
